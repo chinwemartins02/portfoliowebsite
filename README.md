@@ -4,7 +4,7 @@ A clean, responsive personal portfolio website showcasing frontend development s
 
 ## 🌐 Live Demo
 
-**[View Live Website](https://chinwemartins02.github.io/portfolio/)**
+**[View Live Website](https://chinwemartins02.github.io/portfoliowebsite/)**
 
 ## 📋 Table of Contents
 
